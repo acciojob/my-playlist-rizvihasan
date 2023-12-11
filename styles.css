@@ -1,1 +1,66 @@
-/*  your css code here. If applicable */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Nunito+Sans:opsz@6..12&display=swap');
+
+*{
+	
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+}
+.playlist{
+      width:95%;
+	  height:180px;
+	background-color: white;
+	margin:auto;
+	border-style:solid;
+	border-width:2px;
+	border-radius:8px;
+	position:relative;
+}
+ul{
+	list-style:none;	
+	margin-top:20px;
+}
+a{
+	text-decoration-line: none
+}
+.song{	margin-top:10px;
+	margin-bottom:10px;
+	  font-weight:500;
+	 }
+h2{
+	text-align:center;
+}
+.player{
+	width:600px;
+	height:550px;
+	border-style:solid;
+	border-width:2px;
+	border-radius:8px;
+	background-color: rgb(255, 255, 255);
+	margin:auto;
+
+}
+.player_one{
+	width:580px;	
+	height:400px;	
+	margin:auto;
+    background-color: rgb(255, 255, 255); 
+	margin-top:10px;   	
+}
+
+h6{
+	margin-left:10px;
+	margin-top:-20px;
+}
+.player_two{
+	width:580px;
+	height:50px;
+	margin-top:-12px;
+	margin-left:12px;
+	background-color: rgb(255, 255, 255);
+		
+}
