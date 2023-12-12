@@ -48,7 +48,7 @@ h2{
 	margin:auto;
 
 }
-.player_one{
+div.player_one{
 	width:580px;	
 	height:400px;	
 	margin:auto;
@@ -61,7 +61,7 @@ h6{
 	margin-left:10px;
 	margin-top:-20px;
 }
-.player_two{
+div.player_two{
 	width:580px;
 	height:50px;
 	margin-top:-12px;
